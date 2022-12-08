@@ -24,7 +24,10 @@ CREATE TABLE `usuariostge` (
   `senha` varchar(32) NOT NULL,
   `imgPerf` varchar(145) NOT NULL,
   `descricao` varchar(1000) NOT NULL,
-  `chatOn` int(11) NOT NULL
+  `chatOn` int(11) NOT NULL,
+  jogofav1 varchar(100),
+  jogofav2 varchar(100),
+  jogofav3 varchar(100)
 ) ;
 
 ALTER TABLE `chats`
