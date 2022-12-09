@@ -1,4 +1,4 @@
-<h1>The Gamers Encounter<h1>
+# The Gamers Encounter
   
 ## Como utilizar
   
